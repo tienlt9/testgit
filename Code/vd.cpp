@@ -12,5 +12,7 @@ int main()
     int t;
     cin >> t;
     cout << t;
+	
+	//edit by copy
 
 }
